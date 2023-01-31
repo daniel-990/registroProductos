@@ -1,6 +1,6 @@
 {
-  "name": "formulario de notas",
-  "productName": "formulario de notas",
+  "name": "registroProductos",
+  "productName": "registroProductos",
   "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",
